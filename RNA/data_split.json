@@ -1,0 +1,7 @@
+[{"Modelo": "Sequential", "Test_size": "0.10", "Batch_size": 16, "Loss_Acc_Prec_Recall": [0.6482394337654114, 0.6211159229278564, 0.5800204873085022, 0.36591142416000366]},
+{"Modelo": "Sequential", "Test_size": "0.25", "Batch_size": 16, "Loss_Acc_Prec_Recall": [0.6519263386726379, 0.6164889931678772, 0.5560773015022278, 0.4461546838283539]},
+{"Modelo": "Sequential", "Test_size": "0.40", "Batch_size": 16, "Loss_Acc_Prec_Recall": [0.6496115326881409, 0.6187117099761963, 0.5621140003204346, 0.4310317039489746]},
+{"Modelo": "Sequential", "Test_size": "0.10", "Batch_size": 32, "Loss_Acc_Prec_Recall": [0.648949146270752, 0.6207756996154785, 0.5721709728240967, 0.3970184624195099]},
+{"Modelo": "Sequential", "Test_size": "0.25", "Batch_size": 32, "Loss_Acc_Prec_Recall": [0.6500743627548218, 0.6180539727210999, 0.5603633522987366, 0.43490663170814514]},
+{"Modelo": "Sequential", "Test_size": "0.40", "Batch_size": 32, "Loss_Acc_Prec_Recall": [0.647882878780365, 0.622249960899353, 0.5903716087341309, 0.3385716676712036]},
+]
